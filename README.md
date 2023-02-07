@@ -12,7 +12,7 @@ As a user, I can perform addition, subtraction, multiplication and division.
 
 As a user, I can perform percentages.
 
-As a user, I cann perform squares.
+As a user, I can perform squares.
 
 ## Features
 
