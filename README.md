@@ -1,6 +1,6 @@
 # Calculator
 
-The calculator performs addition, subtraction, multiplication, division, percentages and squares.  This is a project taken from IT Career Switch (Accessed on 7 February 2023).
+The calculator performs addition, subtraction, multiplication, division, percentages and squares.  This is a project taken from IT Career Switch - HTML5 and CSS3 Fundamentals (Accessed on 7 February 2023).
 
 ## UX
 
@@ -16,7 +16,7 @@ As a user, I can perform squares.
 
 ## Features
 
-Performs addition, multiplication, subtraction, division percentages and squares.  Other features to add would be change background colour and additional functions (e.g. cubes).
+Performs addition, multiplication, subtraction, division percentages and squares.  Other features to add would be to change background colour and additional functions (e.g. cubes).
 
 ## Technologies
 
@@ -34,7 +34,7 @@ On [GitHub Pages](https://derektypist.github.io/calculator) at the main branch.
 
 ### Content
 
-Code in `index.html`, `style.css` and `script.js` taken from IT Career Switch (Introduction to HTML and CSS), accessed on 7 February 2023.
+Code in `index.html`, `style.css` and `script.js` taken from IT Career Switch - HTML5 and CSS3 Fundamentals, accessed on 7 February 2023.
 
 ### Acknowledgements
 
